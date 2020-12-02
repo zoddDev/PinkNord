@@ -1,2 +1,2 @@
 ## PinkNord
-![alt text](../../screenshots/PinkNord.png)
+![alt text](screenshot.png)
