@@ -10,3 +10,7 @@ ln -s $WALLPAPERS/nord-theme $HOME/.config/GIMP/2.10/splashes
 
 $HOME/.config/bspwm/bspborders &
 $HOME/.scripts/autostart.bspwm
+
+#picom update?
+killall compton
+picom -b
