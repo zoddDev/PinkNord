@@ -1486,17 +1486,17 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#292828",
+    "themeBackground": "#2e3440",
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///home/zodd/Dropbox/Programming/Maude",
             "backupPath": "/home/zodd/.config/Code/Backups/b3e372e9263eb7973f4bd0d9960410ae",
             "uiState": {
                 "mode": 1,
-                "x": 20,
-                "y": 64,
-                "width": 2520,
-                "height": 996
+                "x": 30,
+                "y": 62,
+                "width": 1484,
+                "height": 988
             }
         },
         "openedWindows": []
@@ -1504,14 +1504,14 @@
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#a89984",
-            "background": "#292828",
-            "editorBackground": "#292828",
-            "titleBarBackground": "#292828",
-            "activityBarBackground": "#292828",
-            "sideBarBackground": "#292828",
-            "statusBarBackground": "#292828",
-            "statusBarNoFolderBackground": "#292828"
+            "foreground": "#d8dee9",
+            "background": "#2e3440",
+            "editorBackground": "#2e3440",
+            "titleBarBackground": "#2e3440",
+            "activityBarBackground": "#2e3440",
+            "sideBarBackground": "#2e3440",
+            "statusBarBackground": "#3b4252",
+            "statusBarNoFolderBackground": "#3b4252"
         },
         "layoutInfo": {
             "sideBarSide": "left",
